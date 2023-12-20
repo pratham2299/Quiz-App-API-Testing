@@ -3,15 +3,13 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="apiTestcases.QuizAppAPITest">
+      <class name="com.quiz_app.testcases.QuizAppAPITest">
         <methods>
-          <include name="negativeTestingOfAllSubjects"/>
-          <include name="setup"/>
-          <include name="positiveTestingOneSubject"/>
-          <include name="negativeTestingOneSubject"/>
-          <include name="positiveTestingOfAllSubjects"/>
+          <include name="baseURL"/>
+          <include name="verifyByGettingOneSubjectsWithInvalidSubjectName"/>
+          <include name="verifyByGettingAllSubjectsWithValidEndpoint"/>
         </methods>
-      </class> <!-- apiTestcases.QuizAppAPITest -->
+      </class> <!-- com.quiz_app.testcases.QuizAppAPITest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,1 @@
+{"uuid":"e5939482-6809-4d85-8298-b9e187e10a0e","name":"com.quiz_app.testcases.QuizAppAPITest","children":["87ea7725-df29-46a5-8f97-32ba7f00f9b9"],"befores":[{"name":"baseURL","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1703052889523,"stop":1703052889947}],"afters":[],"start":1703052889496,"stop":1703052891385}

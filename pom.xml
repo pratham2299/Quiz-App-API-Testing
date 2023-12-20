@@ -17,6 +17,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
+		<allure.testng.version>2.24.0</allure.testng.version>
+		<maven.surefire.plugin.version>3.1.2</maven.surefire.plugin.version>
 	</properties>
 
 	<dependencies>
@@ -41,26 +43,6 @@
 			<version>5.3.2</version>
 			<scope>test</scope>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.json/json -->
-		<dependency>
-			<groupId>org.json</groupId>
-			<artifactId>json</artifactId>
-			<version>20231013</version>
-		</dependency>
-		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
-		<dependency>
-			<groupId>com.google.code.gson</groupId>
-			<artifactId>gson</artifactId>
-			<version>2.10.1</version>
-		</dependency>
-		<!--
-		https://mvnrepository.com/artifact/com.github.scribejava/scribejava-apis -->
-		<dependency>
-			<groupId>com.github.scribejava</groupId>
-			<artifactId>scribejava-apis</artifactId>
-			<version>8.3.3</version>
-			<scope>runtime</scope>
-		</dependency>
 		<!--
 		https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
 		<dependency>
@@ -82,13 +64,32 @@
 			<artifactId>log4j-core</artifactId>
 			<version>2.22.0</version>
 		</dependency>
-
 		<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
 		<dependency>
 			<groupId>io.qameta.allure</groupId>
 			<artifactId>allure-testng</artifactId>
 			<version>2.24.0</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
+		<dependency>
+			<groupId>com.github.javafaker</groupId>
+			<artifactId>javafaker</artifactId>
+			<version>1.0.2</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.json/json -->
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20231013</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.10.1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
