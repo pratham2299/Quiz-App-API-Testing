@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-16T11:23:58 IST" name="Suite" finished-at="2023-11-16T11:24:01 IST" duration-ms="2490">
+    <groups>
+    </groups>
+    <test started-at="2023-11-16T11:23:58 IST" name="Test" finished-at="2023-11-16T11:24:01 IST" duration-ms="2490">
+      <class name="apiTestcases.SampleAPITest">
+        <test-method signature="getAllUsersList()[pri:0, instance:apiTestcases.SampleAPITest@636be97c]" started-at="2023-11-16T11:23:58 IST" name="getAllUsersList" finished-at="2023-11-16T11:24:00 IST" duration-ms="1714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUsersList -->
+        <test-method signature="getOneSubjectQuestions()[pri:0, instance:apiTestcases.SampleAPITest@636be97c]" started-at="2023-11-16T11:24:00 IST" name="getOneSubjectQuestions" finished-at="2023-11-16T11:24:01 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOneSubjectQuestions -->
+      </class> <!-- apiTestcases.SampleAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

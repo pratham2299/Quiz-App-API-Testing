@@ -1,0 +1,62 @@
+{
+    "uuid": "676be2ba-1414-4d2a-ad85-95268a303a02",
+    "historyId": "f810249b48294c32dcb93f31615b61e4",
+    "fullName": "apiTestcases.QuizAppAPITest.getOneSubjectQuestions",
+    "labels": [
+        {
+            "name": "package",
+            "value": "apiTestcases.QuizAppAPITest"
+        },
+        {
+            "name": "testClass",
+            "value": "apiTestcases.QuizAppAPITest"
+        },
+        {
+            "name": "testMethod",
+            "value": "getOneSubjectQuestions"
+        },
+        {
+            "name": "parentSuite",
+            "value": "Suite"
+        },
+        {
+            "name": "suite",
+            "value": "Test"
+        },
+        {
+            "name": "subSuite",
+            "value": "apiTestcases.QuizAppAPITest"
+        },
+        {
+            "name": "host",
+            "value": "DESKTOP-BG83L86"
+        },
+        {
+            "name": "thread",
+            "value": "3476@DESKTOP-BG83L86.main(1)"
+        },
+        {
+            "name": "framework",
+            "value": "testng"
+        },
+        {
+            "name": "language",
+            "value": "java"
+        }
+    ],
+    "links": [],
+    "name": "getOneSubjectQuestions",
+    "status": "passed",
+    "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+    },
+    "stage": "finished",
+    "description": "Get One Subjects",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "start": 1700456983439,
+    "stop": 1700456983497
+}
