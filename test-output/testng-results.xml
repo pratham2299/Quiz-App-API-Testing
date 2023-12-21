@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-21T09:49:23 IST" name="Default suite" finished-at="2023-12-21T09:49:27 IST" duration-ms="3834">
+  <suite started-at="2023-12-21T09:53:44 IST" name="Suite" finished-at="2023-12-21T09:53:47 IST" duration-ms="2809">
     <groups>
     </groups>
-    <test started-at="2023-12-21T09:49:23 IST" name="Default test" finished-at="2023-12-21T09:49:27 IST" duration-ms="3834">
+    <test started-at="2023-12-21T09:53:44 IST" name="Test" finished-at="2023-12-21T09:53:47 IST" duration-ms="2809">
       <class name="com.quiz_app.testcases.QuizAppAPITest">
-        <test-method is-config="true" signature="baseURL()[pri:0, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:49:23 IST" name="baseURL" finished-at="2023-12-21T09:49:24 IST" duration-ms="455" status="PASS">
+        <test-method is-config="true" signature="baseURL()[pri:0, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:53:44 IST" name="baseURL" finished-at="2023-12-21T09:53:45 IST" duration-ms="436" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseURL -->
-        <test-method signature="verifyByGettingAllSubjectsWithValidEndpoint()[pri:1, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:49:24 IST" name="verifyByGettingAllSubjectsWithValidEndpoint" finished-at="2023-12-21T09:49:26 IST" duration-ms="1659" status="PASS">
+        <test-method signature="verifyByGettingAllSubjectsWithValidEndpoint()[pri:1, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:53:45 IST" name="verifyByGettingAllSubjectsWithValidEndpoint" finished-at="2023-12-21T09:53:47 IST" duration-ms="1690" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyByGettingAllSubjectsWithValidEndpoint -->
-        <test-method signature="verifyByGettingAllSubjectsWithInValidEndpoint()[pri:2, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:49:26 IST" name="verifyByGettingAllSubjectsWithInValidEndpoint" finished-at="2023-12-21T09:49:26 IST" duration-ms="51" status="PASS">
+        <test-method signature="verifyByGettingAllSubjectsWithInValidEndpoint()[pri:2, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:53:47 IST" name="verifyByGettingAllSubjectsWithInValidEndpoint" finished-at="2023-12-21T09:53:47 IST" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyByGettingAllSubjectsWithInValidEndpoint -->
-        <test-method signature="verifyByGettingOneSubjectsWithValidSubjectName()[pri:3, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:49:26 IST" name="verifyByGettingOneSubjectsWithValidSubjectName" finished-at="2023-12-21T09:49:26 IST" duration-ms="346" status="PASS">
+        <test-method signature="verifyByGettingOneSubjectsWithValidSubjectName()[pri:3, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:53:47 IST" name="verifyByGettingOneSubjectsWithValidSubjectName" finished-at="2023-12-21T09:53:47 IST" duration-ms="385" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyByGettingOneSubjectsWithValidSubjectName -->
-        <test-method signature="verifyByGettingOneSubjectsWithValidSubjectName()[pri:3, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:49:26 IST" name="verifyByGettingOneSubjectsWithValidSubjectName" finished-at="2023-12-21T09:49:26 IST" duration-ms="401" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyByGettingOneSubjectsWithValidSubjectName -->
-        <test-method signature="verifyByGettingOneSubjectsWithValidSubjectName()[pri:3, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:49:26 IST" name="verifyByGettingOneSubjectsWithValidSubjectName" finished-at="2023-12-21T09:49:27 IST" duration-ms="269" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyByGettingOneSubjectsWithValidSubjectName -->
-        <test-method signature="verifyByGettingOneSubjectsWithValidSubjectName()[pri:3, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:49:27 IST" name="verifyByGettingOneSubjectsWithValidSubjectName" finished-at="2023-12-21T09:49:27 IST" duration-ms="383" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyByGettingOneSubjectsWithValidSubjectName -->
-        <test-method signature="verifyByGettingOneSubjectsWithInvalidSubjectName()[pri:4, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:49:27 IST" name="verifyByGettingOneSubjectsWithInvalidSubjectName" finished-at="2023-12-21T09:49:27 IST" duration-ms="121" status="PASS">
+        <test-method signature="verifyByGettingOneSubjectsWithInvalidSubjectName()[pri:4, instance:com.quiz_app.testcases.QuizAppAPITest@2187fff7]" started-at="2023-12-21T09:53:47 IST" name="verifyByGettingOneSubjectsWithInvalidSubjectName" finished-at="2023-12-21T09:53:47 IST" duration-ms="112" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyByGettingOneSubjectsWithInvalidSubjectName -->
       </class> <!-- com.quiz_app.testcases.QuizAppAPITest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

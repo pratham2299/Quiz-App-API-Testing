@@ -1,180 +1,4 @@
-09:05:30.042 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "questionId": 1,
-        "questionType": "Text",
-        "question": "Distance is a ________________ quantity.",
-        "option1": "Scalar",
-        "option2": "Vector",
-        "option3": "Both a and b",
-        "option4": "None of Above",
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 3,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when a body at rest starts moving",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 4,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    }
-]
-09:05:30.670 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:05:30.675 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 493
-09:05:30.676 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:05:30.676 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:05:30.676 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 03:35:31 GMT
-09:05:30.677 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:05:30.677 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:25:04.443 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "questionId": 2,
-        "questionType": "Image",
-        "question": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
-        "option1": "true",
-        "option2": "false",
-        "option3": null,
-        "option4": null,
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Maths"
-        }
-    },
-    {
-        "questionId": 5,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Maths"
-        }
-    }
-]
-09:26:23.934 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "questionId": 2,
-        "questionType": "Image",
-        "question": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
-        "option1": "true",
-        "option2": "false",
-        "option3": null,
-        "option4": null,
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Maths"
-        }
-    },
-    {
-        "questionId": 5,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Maths"
-        }
-    }
-]
-09:26:24.634 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 435
-09:26:24.634 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:26:24.635 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:26:24.635 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 03:56:25 GMT
-09:26:24.635 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:26:24.635 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:40:03.190 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "questionId": 1,
-        "questionType": "Text",
-        "question": "Distance is a ________________ quantity.",
-        "option1": "Scalar",
-        "option2": "Vector",
-        "option3": "Both a and b",
-        "option4": "None of Above",
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 3,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when a body at rest starts moving",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 4,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    }
-]
-09:42:03.949 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
+09:53:35.910 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body: [
     {
         "subjectName": "Maths"
     },
@@ -182,260 +6,23 @@
         "subjectName": "Science"
     }
 ]
-09:42:03.950 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:42:03.953 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 427
-09:42:04.598 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:42:04.599 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:42:04.599 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:12:05 GMT
-09:42:04.599 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:42:04.599 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:42:04.732 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "questionId": 1,
-        "questionType": "Text",
-        "question": "Distance is a ________________ quantity.",
-        "option1": "Scalar",
-        "option2": "Vector",
-        "option3": "Both a and b",
-        "option4": "None of Above",
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 3,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when a body at rest starts moving",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 4,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    }
-]
-09:42:05.163 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:42:05.164 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 38
-09:42:05.164 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:42:05.164 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:42:05.164 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:12:05 GMT
-09:42:05.165 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:42:05.165 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:42:05.302 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-Subject Not Found
-09:42:05.303 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
-09:42:05.303 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 42
-09:44:22.118 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "subjectName": "Maths"
-    },
-    {
-        "subjectName": "Science"
-    }
-]
-09:44:22.121 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:44:22.126 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 433
-09:44:22.763 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:44:22.763 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:44:22.763 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:14:23 GMT
-09:44:22.763 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:44:22.763 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:44:22.886 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "questionId": 1,
-        "questionType": "Text",
-        "question": "Distance is a ________________ quantity.",
-        "option1": "Scalar",
-        "option2": "Vector",
-        "option3": "Both a and b",
-        "option4": "None of Above",
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 3,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when a body at rest starts moving",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 4,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    }
-]
-09:44:23.323 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:44:23.323 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 30
-09:44:23.323 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:44:23.324 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:44:23.324 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:14:23 GMT
-09:44:23.324 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:44:23.324 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:44:23.439 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-Subject Not Found
-09:44:23.440 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
-09:44:23.440 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 25
-09:48:50.150 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "subjectName": "Maths"
-    },
-    {
-        "subjectName": "Science"
-    }
-]
-09:48:50.153 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:48:50.156 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 411
-09:48:50.796 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:48:50.796 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:48:50.796 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:18:51 GMT
-09:48:50.796 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:48:50.797 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:48:50.941 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-{
-    "timestamp": "2023-12-21T04:18:52.184+00:00",
+09:53:35.913 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
+09:53:35.917 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 432
+09:53:36.533 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
+09:53:36.533 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
+09:53:36.533 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:23:37 GMT
+09:53:36.533 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
+09:53:36.533 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
+09:53:36.665 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body: {
+    "timestamp": "2023-12-21T04:23:37.897+00:00",
     "status": 404,
     "error": "Not Found",
     "message": "No message available",
     "path": "/quiz/subject/all"
 }
-09:48:50.941 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
-09:48:50.941 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 38
-09:48:51.006 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "questionId": 1,
-        "questionType": "Text",
-        "question": "Distance is a ________________ quantity.",
-        "option1": "Scalar",
-        "option2": "Vector",
-        "option3": "Both a and b",
-        "option4": "None of Above",
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 3,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when a body at rest starts moving",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 4,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    }
-]
-09:48:51.413 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:48:51.414 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 33
-09:48:51.414 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:48:51.414 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:48:51.414 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:18:51 GMT
-09:48:51.414 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:48:51.415 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:48:51.529 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-Subject Not Found
-09:48:51.529 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
-09:48:51.529 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 26
-09:49:25.250 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "subjectName": "Maths"
-    },
-    {
-        "subjectName": "Science"
-    }
-]
-09:49:25.260 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:49:25.264 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 408
-09:49:26.013 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:49:26.013 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:49:26.013 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:19:26 GMT
-09:49:26.013 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:49:26.014 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:49:26.135 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-{
-    "timestamp": "2023-12-21T04:19:27.378+00:00",
-    "status": 404,
-    "error": "Not Found",
-    "message": "No message available",
-    "path": "/quiz/subject/all"
-}
-09:49:26.135 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
-09:49:26.136 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 23
-09:49:26.203 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
+09:53:36.665 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
+09:53:36.665 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 36
+09:53:36.736 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body: [
     {
         "questionId": 2,
         "questionType": "Image",
@@ -467,70 +54,41 @@ Subject Not Found
         }
     }
 ]
-09:49:26.500 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:49:26.500 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 35
-09:49:26.500 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:49:26.501 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:49:26.501 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:19:27 GMT
-09:49:26.501 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:49:26.501 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:49:26.584 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
+09:53:37.043 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
+09:53:37.043 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 39
+09:53:37.044 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
+09:53:37.044 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
+09:53:37.044 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:23:37 GMT
+09:53:37.044 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
+09:53:37.044 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
+09:53:37.149 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body: Subject Not Found
+09:53:37.149 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
+09:53:37.149 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 22
+09:53:46.296 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body: [
     {
-        "questionId": 1,
-        "questionType": "Text",
-        "question": "Distance is a ________________ quantity.",
-        "option1": "Scalar",
-        "option2": "Vector",
-        "option3": "Both a and b",
-        "option4": "None of Above",
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Science"
-        }
+        "subjectName": "Maths"
     },
     {
-        "questionId": 3,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when a body at rest starts moving",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 4,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
+        "subjectName": "Science"
     }
 ]
-09:49:26.906 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:49:26.906 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 61
-09:49:26.906 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:49:26.906 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:49:26.907 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:19:27 GMT
-09:49:26.907 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:49:26.907 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:49:26.956 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
+09:53:46.299 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
+09:53:46.304 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 486
+09:53:47.037 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
+09:53:47.037 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
+09:53:47.037 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:23:47 GMT
+09:53:47.037 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
+09:53:47.038 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
+09:53:47.153 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body: {
+    "timestamp": "2023-12-21T04:23:48.392+00:00",
+    "status": 404,
+    "error": "Not Found",
+    "message": "No message available",
+    "path": "/quiz/subject/all"
+}
+09:53:47.153 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
+09:53:47.153 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 25
+09:53:47.220 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body: [
     {
         "questionId": 2,
         "questionType": "Image",
@@ -562,69 +120,13 @@ Subject Not Found
         }
     }
 ]
-09:49:27.179 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:49:27.179 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 35
-09:49:27.179 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:49:27.179 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:49:27.179 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:19:27 GMT
-09:49:27.179 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:49:27.180 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:49:27.236 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-[
-    {
-        "questionId": 1,
-        "questionType": "Text",
-        "question": "Distance is a ________________ quantity.",
-        "option1": "Scalar",
-        "option2": "Vector",
-        "option3": "Both a and b",
-        "option4": "None of Above",
-        "option5": null,
-        "correctOption": "Scalar",
-        "explanation": "Distance is a Scalar quantity because we couldn't consider direction",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 3,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when a body at rest starts moving",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    },
-    {
-        "questionId": 4,
-        "questionType": "Text",
-        "question": "Which of the following is an example of application of force?",
-        "option1": "when a body at rest starts moving",
-        "option2": "when a moving body stops",
-        "option3": "when moving body changes its direction",
-        "option4": "All of the above",
-        "option5": null,
-        "correctOption": "when moving body changes its direction",
-        "explanation": "Force can be defined as an external effort in the form of push or pull which: (i) Produces or tries to produce motion in a resting body (ii) Stops or tries to stop a moving body (iii) Changes or tries to change the direction of motion of the body",
-        "subject": {
-            "subjectName": "Science"
-        }
-    }
-]
-09:49:27.567 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
-09:49:27.567 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 37
-09:49:27.568 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
-09:49:27.568 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
-09:49:27.568 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:19:28 GMT
-09:49:27.568 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
-09:49:27.568 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
-09:49:27.693 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body:
-Subject Not Found
-09:49:27.694 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
-09:49:27.694 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 16
+09:53:47.559 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 200
+09:53:47.559 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 34
+09:53:47.559 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Content-Type Value: application/json
+09:53:47.560 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Transfer-Encoding Value: chunked
+09:53:47.560 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Date Value: Thu, 21 Dec 2023 04:23:48 GMT
+09:53:47.560 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Keep-Alive Value: timeout=60
+09:53:47.560 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Key: Connection Value: keep-alive
+09:53:47.677 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Body: Subject Not Found
+09:53:47.677 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Code: 404
+09:53:47.678 [main] INFO  com.quiz_app.testcases.QuizAppAPITest - Response Time: 25
