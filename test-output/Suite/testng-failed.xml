@@ -5,6 +5,7 @@
     <classes>
       <class name="com.quiz_app.testcases.QuizAppAPITest">
         <methods>
+          <include name="verifyByGettingOneSubjectsWithValidSubjectName"/>
           <include name="baseURL"/>
           <include name="verifyByGettingOneSubjectsWithInvalidSubjectName"/>
           <include name="verifyByGettingAllSubjectsWithValidEndpoint"/>
